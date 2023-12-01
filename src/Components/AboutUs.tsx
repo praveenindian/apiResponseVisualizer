@@ -4,7 +4,6 @@ export default function AboutUs() {
   return (
     <>
      <div>AboutUs</div>
-     {/* <link rel="" href='./' /> */}
     </>
   )
 }
